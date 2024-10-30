@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018232500982",
+    "project_id": "rmsystem-99aee",
+    "storage_bucket": "rmsystem-99aee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018232500982:android:c45544f0f1df41cff972d7",
+        "android_client_info": {
+          "package_name": "com.example.ipt2_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUfdwj2B00ddiSn_fmh8OJ5AnsB2geCDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
