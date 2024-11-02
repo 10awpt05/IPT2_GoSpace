@@ -38,7 +38,7 @@ android {
         viewBinding = true
     }
 }
-
+apply(plugin = "com.google.gms.google-services")
 dependencies {
 
     implementation(libs.androidx.core.ktx)
@@ -48,8 +48,11 @@ dependencies {
     implementation(libs.androidx.constraintlayout)
     implementation(libs.firebase.storage)
     implementation(libs.firebase.auth)
+    implementation("androidx.viewpager2:viewpager2:1.0.0")
+    implementation("com.facebook.android:facebook-login:15.0.1")
     testImplementation(libs.junit)
-    androidTestImplementation(libs.androidx.junit)
+    implementation("com.google.android.gms:play-services-auth:20.6.0")
     implementation("androidx.cardview:cardview:1.0.0")
+    androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 }

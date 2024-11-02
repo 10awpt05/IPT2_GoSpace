@@ -157,7 +157,7 @@
         app:layout_constraintTop_toBottomOf="@+id/cardView" />
 
     <ImageButton
-        android:id="@+id/imageButton"
+        android:id="@+id/facebookLogin"
         android:layout_width="75dp"
         android:layout_height="75dp"
         android:layout_marginStart="65dp"
@@ -195,7 +195,7 @@
         android:textColor="#B7B7B7"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageButton" />
+        app:layout_constraintTop_toBottomOf="@+id/facebookLogin" />
 
     <ImageView
         android:id="@+id/imageView"

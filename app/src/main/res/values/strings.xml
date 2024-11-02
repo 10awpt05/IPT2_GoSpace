@@ -2,4 +2,6 @@
     <string name="app_name">IPT2_Login</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">1018232500982-p7cqrma8606420b3690lku2j323f2g9v.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">1062922005309213</string>
 </resources>
